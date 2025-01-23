@@ -1,5 +1,5 @@
 # NoVNC Paste
-Permet de coller du texte présent dans votre presse-papier vers la console NoVNC de Proxmox
+Permet de coller du texte présent dans votre presse-papiers vers la console NoVNC de Proxmox
 
 # Utilisation
 Copiez le code du fichier script.js  
@@ -15,8 +15,10 @@ Allez dans l'onglet Console
   
 Collez le code et exécutez le (il y aura probablement un message d'erreur vous disant d'autoriser le collage, il suffit de faire ce qui est écrit et coller à nouveau le code)  
   
-Vous pouvez maintenant coller du texte de votre presse-papier sur la console NoVNC en faisant clic droit  
-(autorisez l'accès au presse-papier si votre navigateur vous le demande)  
+Vous pouvez maintenant coller du texte de votre presse-papiers sur la console NoVNC en faisant clic droit  
+(autorisez l'accès au presse-papiers si votre navigateur vous le demande)  
+  
+Pas obligatoire mais vous pouvez ouvrir un bloc-notes et coller d'abord les commandes du pdf dans le bloc-notes afin de corriger les commandes, puis les mettre dans la console NoVNC
 
 # Compatibilité
 J'ai testé le code sur Chrome et Firefox et il fonctionnait sur les deux navigateurs
