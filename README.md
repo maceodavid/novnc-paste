@@ -18,9 +18,12 @@ Collez le code et exécutez le (il y aura probablement un message d'erreur vous 
 Vous pouvez maintenant coller du texte de votre presse-papier sur la console NoVNC en faisant clic droit  
 (autorisez l'accès au presse-papier si votre navigateur vous le demande)  
 
+# Compatibilité
+J'ai testé le code sur Chrome et Firefox et il fonctionnait sur les deux navigateurs
+
 # Problèmes connus
-On peut pas coller le signe % j'ai essayé de patch mais pas réussi :(  
-Si vous rencontrez d'autres problèmes vous pouvez créer une [issue](https://github.com/maceodavid/novnc-paste/issues) ou me contacter sur discord
+On ne peut pas coller le signe %  
+Si vous rencontrez d'autres problèmes vous pouvez créer une [issue](https://github.com/maceodavid/novnc-paste/issues) ou me contacter sur discord  
 
 # Source
 modifié à partir de  
