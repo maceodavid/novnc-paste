@@ -3,7 +3,7 @@ Permet de coller du texte présent dans votre presse-papier vers la console NoVN
 
 # Utilisation
 Copiez le code du fichier script.js  
-https://raw.githubusercontent.com/maceodavid/novnc-paste/refs/heads/master/script.js  
+https://raw.githubusercontent.com/maceodavid/novnc-paste/refs/heads/main/script.js  
   
 Faites un clic droit dans la zone grise à gauche de la console NoVNC, puis Inspecter  
   
