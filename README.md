@@ -1,5 +1,5 @@
 # NoVNC Paste
-Permet de coller du texte présent dans votre presse-papier dans la console NoVNC de Proxmox
+Permet de coller du texte présent dans votre presse-papier vers la console NoVNC de Proxmox
 
 # Utilisation
 Copiez le code du fichier script.js  
