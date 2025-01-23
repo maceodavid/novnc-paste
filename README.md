@@ -18,7 +18,7 @@ Collez le code et exécutez le (il y aura probablement un message d'erreur vous 
 Vous pouvez maintenant coller du texte de votre presse-papiers sur la console NoVNC en faisant clic droit  
 (autorisez l'accès au presse-papiers si votre navigateur vous le demande)  
   
-Pas obligatoire mais vous pouvez ouvrir un bloc-notes et coller d'abord les commandes du pdf dans le bloc-notes afin de corriger les commandes, puis les mettre dans la console NoVNC
+Pas obligatoire mais vous pouvez ouvrir un bloc-notes et coller d'abord les commandes du pdf dans le bloc-notes afin de les corriger si besoin, puis copier les commandes corrigées et les mettre dans la console NoVNC
 
 # Compatibilité
 J'ai testé le code sur Chrome et Firefox et il fonctionnait sur les deux navigateurs
