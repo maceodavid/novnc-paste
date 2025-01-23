@@ -1,11 +1,6 @@
 # NoVNC Paste
 Permet de coller du texte présent dans votre presse-papier dans la console NoVNC de Proxmox
 
-# Source
-modifié à partir de  
-https://gist.github.com/4Sitam4/f5735192954fff8fdef8c57ff6dc91a3  
-https://gist.github.com/amunchet/4cfaf0274f3d238946f9f8f94fa9ee02
-
 # Utilisation
 Copiez le code du fichier script.js  
 https://raw.githubusercontent.com/maceodavid/novnc-paste/refs/heads/master/script.js  
@@ -26,3 +21,8 @@ Vous pouvez maintenant coller du texte de votre presse-papier sur la console NoV
 # Problèmes connus
 On peut pas coller le signe % j'ai essayé de patch mais pas réussi :(  
 Si vous rencontrez d'autres problèmes vous pouvez créer une [issue](https://github.com/maceodavid/novnc-paste/issues) ou me contacter sur discord
+
+# Source
+modifié à partir de  
+https://gist.github.com/4Sitam4/f5735192954fff8fdef8c57ff6dc91a3  
+https://gist.github.com/amunchet/4cfaf0274f3d238946f9f8f94fa9ee02
