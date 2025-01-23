@@ -2,8 +2,8 @@
 Permet de coller du texte présent dans votre presse-papier dans la console NoVNC de Proxmox
 
 # Source
-modifié à partir de
-https://gist.github.com/4Sitam4/f5735192954fff8fdef8c57ff6dc91a3
+modifié à partir de  
+https://gist.github.com/4Sitam4/f5735192954fff8fdef8c57ff6dc91a3  
 https://gist.github.com/amunchet/4cfaf0274f3d238946f9f8f94fa9ee02
 
 # Utilisation
