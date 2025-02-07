@@ -25,6 +25,7 @@ J'ai testé le code sur Chrome et Firefox et il fonctionnait sur les deux naviga
 
 # Problèmes connus
 On ne peut pas coller le signe %  
+Le code ne fonctionne que sur les versions récentes des navigateurs  
 Si vous rencontrez d'autres problèmes vous pouvez créer une [issue](https://github.com/maceodavid/novnc-paste/issues) ou me contacter sur discord  
 
 # Source
